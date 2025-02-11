@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      
+      <h1>I will start soon as i complete myexams</h1>
     </>
   )
 }
